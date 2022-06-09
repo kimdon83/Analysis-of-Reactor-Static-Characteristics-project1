@@ -1,0 +1,9 @@
+Input_set_1-2
+
+3 1               !nr,ngauss
+ 0.5   0.6   1.0   !radius
+ 1.0   0.5   2.0   !sigt
+ 0.1   0.4   1.9   !sigs
+ 0.1   0.0   1.0   !qi
+ 1.0   -1.2097     !albedo, jext
+

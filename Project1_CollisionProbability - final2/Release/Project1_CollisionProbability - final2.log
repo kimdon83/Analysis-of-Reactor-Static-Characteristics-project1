@@ -1,0 +1,35 @@
+﻿빌드 시작: 2016-04-25 오후 1:36:44
+     1>2 노드의 "D:\lab_dh\2016봄\Project1_CollisionProbability - final5\Project1_CollisionProbability - final2\Project1_CollisionProbability - final2.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _USING_V110_SDK71_ /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt CollisoinProbability.cpp main.cpp
+         CollisoinProbability.cpp
+     1>CollisoinProbability.cpp(121): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>CollisoinProbability.cpp(146): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>CollisoinProbability.cpp(150): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>CollisoinProbability.cpp(315): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>CollisoinProbability.cpp(405): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>CollisoinProbability.cpp(614): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+     1>CollisoinProbability.cpp(681): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+     1>CollisoinProbability.cpp(1035): warning C4101: 'i_temp' :참조되지 않은 지역 변수입니다.
+     1>CollisoinProbability.cpp(1035): warning C4101: 'j_temp' :참조되지 않은 지역 변수입니다.
+     1>CollisoinProbability.cpp(1036): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+     1>CollisoinProbability.cpp(1063): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+     1>CollisoinProbability.cpp(1063): warning C4101: 'i_temp' :참조되지 않은 지역 변수입니다.
+     1>CollisoinProbability.cpp(1063): warning C4101: 'j_temp' :참조되지 않은 지역 변수입니다.
+         main.cpp
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1193,5): warning MSB8030: The linker switch "Minimum Required Version" requires "SubSystem" to be set.  Without "SubSystem", the "Minimum Required Version" would not be passed to linker and could prevent to the output binary from running on older Operating Systems.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\lab_dh\2016봄\Project1_CollisionProbability - final5\Release\Project1_CollisionProbability - final2.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\lab_dh\2016봄\Project1_CollisionProbability - final5\Release\Project1_CollisionProbability - final2.pdb" /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\lab_dh\2016봄\Project1_CollisionProbability - final5\Release\Project1_CollisionProbability - final2.lib" /MACHINE:X86 /PROFILE /SAFESEH Release\CollisoinProbability.obj
+         Release\main.obj
+         Release\Matrix.obj
+         코드를 생성하고 있습니다.
+         3 of 524 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+           0 functions were new in current compilation
+           3 functions had inline decision re-evaluated but remain unchanged
+         코드를 생성했습니다.
+         Project1_CollisionProbability - final2.vcxproj -> D:\lab_dh\2016봄\Project1_CollisionProbability - final5\Release\Project1_CollisionProbability - final2.exe
+     1>"D:\lab_dh\2016봄\Project1_CollisionProbability - final5\Project1_CollisionProbability - final2\Project1_CollisionProbability - final2.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:05.52

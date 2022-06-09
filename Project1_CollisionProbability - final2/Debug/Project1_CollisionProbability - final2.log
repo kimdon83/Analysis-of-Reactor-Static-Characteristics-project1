@@ -1,0 +1,10 @@
+﻿빌드 시작: 2016-04-25 오전 9:41:44
+     1>2 노드의 "D:\lab_dh\2016봄\Project1_CollisionProbability - final5\Project1_CollisionProbability - final2\Project1_CollisionProbability - final2.vcxproj" 프로젝트(Build 대상)입니다.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1197,5): warning MSB8030: The linker switch "Minimum Required Version" requires "SubSystem" to be set.  Without "SubSystem", the "Minimum Required Version" would not be passed to linker and could prevent to the output binary from running on older Operating Systems.
+     1>Link:
+         Project1_CollisionProbability - final2.vcxproj -> D:\lab_dh\2016봄\Project1_CollisionProbability - final5\Debug\Project1_CollisionProbability - final2.exe
+     1>"D:\lab_dh\2016봄\Project1_CollisionProbability - final5\Project1_CollisionProbability - final2\Project1_CollisionProbability - final2.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.03
